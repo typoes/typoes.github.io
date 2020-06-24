@@ -1,1 +1,1 @@
-# typoes.github.io
+# Typoes
