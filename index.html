@@ -10,9 +10,11 @@ layout: default
 
       <div class="entry">
         {{ post.content }}
+        <div class="date">
+            <a href="{{ site.baseurl }}{{ post.url }}">Written on {{ post.date | date: "%e %B %Y" }}</a>
+        </div>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
