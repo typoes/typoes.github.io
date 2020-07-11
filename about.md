@@ -81,7 +81,7 @@ Remember them as Computer Generated PRIDE.
 *** So make a PR
 ** I wish someone would check up on me every so often
 *** So check up on someone every so often
-* At work. Stop waiting for others to lead around. Be the leader your ego tells you you are but are too lazy to be
+* At work. Stop waiting for others to lead around. Be the leader your ego tells you you are
 
 
 ### Discipline
