@@ -3,10 +3,8 @@ layout: post
 title: 11 July 2020
 ---
 ## TL;DR:
-* Set-up is time consuming
-* Zettelkasten exists
-* Sublime shows all files, Bear doesn't. Switch?
-* Change work spaces for better focus
+* Use ngrok for tunnels to localhost
+* Use python to create http server
 
 ## In tech:
 * ngrok makes it super easy to create tunnels to localhost
